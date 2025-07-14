@@ -38,7 +38,7 @@
           {/block}
         {/foreach}
       {/block}
-      {hook h='displayPaCaptcha' posTo='login'}<div class="forgot-password">
+      <div class="forgot-password">
         <a href="{$urls.pages.password}" rel="nofollow">
           {l s='Forgot your password?' d='Shop.Theme.Customeraccount'}
         </a>

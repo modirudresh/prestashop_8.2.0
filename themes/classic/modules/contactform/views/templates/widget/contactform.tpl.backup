@@ -118,7 +118,7 @@
           </div>
         {/if}
 
-      {hook h='displayPaCaptcha' posTo='contact'}</section>
+      </section>
 
       <footer class="form-footer text-sm-right">
         <style>
