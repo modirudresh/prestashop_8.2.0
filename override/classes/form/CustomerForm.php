@@ -22,7 +22,7 @@ class CustomerForm extends CustomerFormCore
 {
     /*
     * module: ets_recaptcha_free
-    * date: 2025-07-14 15:39:35
+    * date: 2025-07-15 08:05:46
     * version: 1.1.3
     */
     public function validate()
